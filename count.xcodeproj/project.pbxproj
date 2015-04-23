@@ -13,6 +13,7 @@
 		49E8CB851AE9033F0097CAC8 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 49E8CB841AE9033F0097CAC8 /* Images.xcassets */; };
 		49E8CB881AE9033F0097CAC8 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 49E8CB861AE9033F0097CAC8 /* LaunchScreen.xib */; };
 		49E8CB941AE9033F0097CAC8 /* countTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49E8CB931AE9033F0097CAC8 /* countTests.swift */; };
+		49E8CB9E1AE907810097CAC8 /* marisa-kirisame-touhou-project-anime-mobile-wallpaper-1080x1920-12331-2373120272.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 49E8CB9D1AE907810097CAC8 /* marisa-kirisame-touhou-project-anime-mobile-wallpaper-1080x1920-12331-2373120272.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		49E8CB8D1AE9033F0097CAC8 /* countTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = countTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		49E8CB921AE9033F0097CAC8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		49E8CB931AE9033F0097CAC8 /* countTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = countTests.swift; sourceTree = "<group>"; };
+		49E8CB9D1AE907810097CAC8 /* marisa-kirisame-touhou-project-anime-mobile-wallpaper-1080x1920-12331-2373120272.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "marisa-kirisame-touhou-project-anime-mobile-wallpaper-1080x1920-12331-2373120272.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				49E8CB7A1AE9033F0097CAC8 /* count */,
 				49E8CB901AE9033F0097CAC8 /* countTests */,
 				49E8CB791AE9033F0097CAC8 /* Products */,
+				49E8CB9D1AE907810097CAC8 /* marisa-kirisame-touhou-project-anime-mobile-wallpaper-1080x1920-12331-2373120272.jpg */,
 			);
 			sourceTree = "<group>";
 		};
@@ -195,6 +198,7 @@
 				49E8CB831AE9033F0097CAC8 /* Main.storyboard in Resources */,
 				49E8CB881AE9033F0097CAC8 /* LaunchScreen.xib in Resources */,
 				49E8CB851AE9033F0097CAC8 /* Images.xcassets in Resources */,
+				49E8CB9E1AE907810097CAC8 /* marisa-kirisame-touhou-project-anime-mobile-wallpaper-1080x1920-12331-2373120272.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
